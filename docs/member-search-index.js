@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Circle","l":"Circle()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Circle","l":"Circle(double, Color)","u":"%3Cinit%3E(double,java.awt.Color)"},{"p":"<Unnamed>","c":"Circle","l":"getArea()"},{"p":"<Unnamed>","c":"Circle","l":"getColor()"},{"p":"<Unnamed>","c":"Circle","l":"getRadius()"}];updateSearchResults();
