@@ -1,3 +1,4 @@
+import java.util.Scanner;
 import java.awt.Rectangle;
 
 public class RectangleTest {
